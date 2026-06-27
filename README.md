@@ -1,6 +1,6 @@
 # family_hub
 
-[Screen Record](https://drive.google.com/file/d/1HPxeuSTvwvjciw4QGocC15iYY7ftdnmy/view?usp=drivesdk)
+
 
 ## Getting Started
 
